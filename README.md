@@ -1,5 +1,5 @@
 # EB-random
-## `localscan.py`
+## `lanscan.py`
 ```
 python3 lanscan.py                  # your own network, auto-detected
 python3 lanscan.py 192.168.1.0/24
